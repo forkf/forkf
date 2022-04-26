@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**forkf/forkf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Hi 👋 My name is Mehul Joshi
 ============================
 
@@ -22,11 +6,15 @@ Python Developer
 
 I am learning code from last 5 years and in this duration I have create many tools for houdini and stand-alone application ( Product Development )
 
-* 🌍  I'm based in Mumbai, India
+* 🌍  I'm working in Mumbai, India
 * ✉️  You can contact me at [forkf.developer@gmail.com](mailto:forkf.developer@gmail.com)
 * 🧠  I'm learning Django | USD |
 * 🤝  I'm open to collaborating on Any project where I can learn and add more value.
 * ⚡  I love to try everything.
+* 👯  I’m looking to collaborate on developing houdini & unreal tool-sets.
+* ⚡  Fun fact: I am way more productive when drunk.
+* 📫  How to reach me: Linkedin
+
 
 <a href="https://www.twitter.com/officialmehulj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/officialmehulj?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
