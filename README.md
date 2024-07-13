@@ -7,7 +7,6 @@ Python Developer
 I am learning code from last 5 years and in this duration I have create many tools for houdini and stand-alone application ( Product Development )
 
 * 🌍  I'm working in London UK.
-* ✉️  You can contact me at [forkf.developer@gmail.com](mailto:forkf.developer@gmail.com)
 * 🧠  I'm learning Django | USD |
 * 🤝  I'm open to collaborating on Any project where I can learn and add more value.
 * ⚡  I love to try everything.
